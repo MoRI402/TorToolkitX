@@ -5,7 +5,7 @@ class Commands:
     RESUMEALL = "resumeall2"
     STATUS = "status"
     SETTINGS = "settings"
-    EXEC = "exec2
+    EXEC = "exec"
     UPLOAD = "upload2"
     YTDL = "ytdl2"
     PYTDL = "pytdl2"
